@@ -37,7 +37,7 @@ V1.0.2: http://lg.la.ramnode.com/static/1000MB.test
 
 表格格式如下图：
 
-![image][static/image.png]
+![image](static/image.png)
 
 表格里各项数据获取来源说明：
 
