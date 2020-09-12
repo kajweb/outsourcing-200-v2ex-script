@@ -1,4 +1,4 @@
-# 帮写个文本处理小脚本@[VKMEPR](https://www.v2ex.com/member/VKMEPR)
+# 文本处理小脚本@[VKMEPR](https://www.v2ex.com/member/VKMEPR)
 
 > 日期：2019年10月06日
 >
